@@ -1,0 +1,58 @@
+body { 
+            background-color: whitesmoke;
+            margin:5% 20%
+}
+
+		p{
+        
+            color: rgba(179, 178, 178, 0.678);
+            font-size: 40px;
+            font-weight: bold;
+            font-family: "Segoe ui", sans serif;
+        }
+        
+        span{
+
+            color: black
+        }
+
+
+        a{
+            color: rgb(179, 177, 177);
+            font-size: 11px;
+            font-weight: bold;
+            font-family: "Arial", sans serif;
+			text-decoration: none;
+		}
+
+        #one{
+            margin-top: 140px
+            
+		}
+		#one a{
+			margin-right: 130px
+        }
+        
+        #two{
+            margin-top: 10px
+            
+		}
+		#two a{
+			margin-right: 123px
+        }
+        
+        #three{
+            margin-top: 10px
+            
+		}
+		#three a{
+			margin-right: 130px
+        }
+        
+        #four{
+            margin-top: 10px
+            
+		}
+		#four a{
+			margin-right: 123px
+		}
